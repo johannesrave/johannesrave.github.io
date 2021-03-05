@@ -17,19 +17,28 @@
 
 ### Game-design
 
-- [The Secret of Maike Island](https://www.adventuregamestudio.co.uk/site/games/game/2517-the-secret-of-maike-island/), a classical point'n'click adventure game built in [Adventure Game Studio](https://www.adventuregamestudio.co.uk/) as a birthday present.
+[The Secret of Maike Island](https://www.adventuregamestudio.co.uk/site/games/game/2517-the-secret-of-maike-island/), a classical point'n'click adventure game built in [Adventure Game Studio](https://www.adventuregamestudio.co.uk/) as a birthday present.
 
 ![The Secret of Maike Island](https://user-images.githubusercontent.com/31467653/110179054-b87cf580-7e07-11eb-9700-16acd22ade5b.gif)  
 </br>
 
-- [Splicer2D](), a mobile game designed with Unity and written in C#
+[Splicer2D](), a mobile game designed with Unity and written in C#
 
 ![splicer2D](https://user-images.githubusercontent.com/31467653/110180080-6f2da580-7e09-11eb-9f53-6b7d64f11f0b.gif)  
 </br>
 
+[Käpt'n Wildschwein](./captn_boar/)  
+I designed "Capt'n Boar" for my nieces and nephews and modelled him in Blender. They sometimes send me drawings of him with his famous barrel of spaghetti.
+
+![The Secret of Maike Island](./game_design/captn_boar/captn_boar_complete.png) 
+
+
+
 ### Coding tutorials and certificates
   
 - [My 300h JavaScript-certificate](https://www.freecodecamp.org/certification/johannesrave/javascript-algorithms-and-data-structures) from [freecodecamp.org](freecodecamp.org)
+- [My hackerrank profile](https://www.hackerrank.com/johannes_rave)
+- [My exercism profile](https://exercism.io/profiles/johannesrave)
 - [My Java solutions](https://github.com/johannesrave/ExercismJavaTrack) for [exercism](https://exercism.io/)
 - [My C# solutions](https://github.com/johannesrave/ExercismCSharpTrack) for [exercism](https://exercism.io/)
 
@@ -41,7 +50,6 @@
   My business-oriented product-design portfolio.
 - [Design portfolio 2009](https://github.com/johannesrave/curriculum_vitae/blob/main/design_portfolio/2009_portfolio_johannesRave_low.pdf)  
   My more artistic product-design portfolio.
-- [Käpt'n Wildschwein](https://github.com/johannesrave/curriculum_vitae/blob/main/captn_boar/captn_boar_complete.png) (Capt'n Boar), a character I designed for my nieces and nephews and modelled in Blender.
 
 ### Nightclub _wolf_
 
