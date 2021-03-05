@@ -35,7 +35,7 @@
   Customers included Audi, BMW and VW
 - [Design portfolio 2014](https://github.com/johannesrave/curriculum_vitae/blob/main/design_portfolio/2014_portfolio_johannesRave_low.pdf)  
   My business-oriented product-design portfolio.
--  [Design portfolio 2009](https://github.com/johannesrave/curriculum_vitae/blob/main/design_portfolio/2009_portfolio_johannesRave_low.pdf)  
+- [Design portfolio 2009](https://github.com/johannesrave/curriculum_vitae/blob/main/design_portfolio/2009_portfolio_johannesRave_low.pdf)  
   My more artistic product-design portfolio.
 - [Käpt'n Wildschwein](https://github.com/johannesrave/curriculum_vitae/blob/main/captn_boar/captn_boar_complete.png) (Capt'n Boar), a character I designed for my nieces and nephews and modelled in Blender.
 
