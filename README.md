@@ -1,6 +1,6 @@
 # CV and Resume of Johannes Rave
 
-### Formal documents and contact information
+### [Formal documents and contact information](https://johannesrave.github.io//documents)
 
 - Curriculum Vitae _[en]() \| [de]()_
 - Academic achievements _[en]() \| [de]()_
