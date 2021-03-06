@@ -1,9 +1,9 @@
 # CV and Resume of Johannes Rave
 
-### [Formal documents and contact information](./documents)
+### Formal documents and contact information
 
-- Curriculum Vitae _[en]() \| [de]()_
-- Academic achievements _[en]() \| [de]()_
+- Curriculum Vitae _[en]()_ \| _[de]()_
+- Academic achievements _[en]()_ \| _[de]()_
 - [Email me!](mailto:johannes.rave@gmail.com)
 
 ### Applications, scripting and automation
@@ -12,17 +12,17 @@
   Using TypeScript and cannon.js in [SparkAR](https://sparkar.facebook.com/ar-studio/).
 - [Implementing billboarding on a tracked plane]() into [SparkAR](https://sparkar.facebook.com/ar-studio/)-filters  
   Using JavaScript and maths.
-- [Generative design for a front grille](https://github.com/johannesrave/curriculum_vitae/tree/main/parametric_grille) using [Grasshopper](https://www.grasshopper3d.com/) and C#, inspired by my own work in the car industry (repo)
+- [Generative design for a front grille](https://github.com/johannesrave/curriculum_vitae/tree/main/parametric_grille) using [Grasshopper](https://www.grasshopper3d.com/) and C#, inspired by my own work in the car industry
 - [A shutline generator]() in [Dynamo for Alias](https://knowledge.autodesk.com/support/alias-products/learn-explore/caas/CloudHelp/cloudhelp/2019/ENU/Alias-Modeling/files/GUID-853BF189-CB9D-48C9-BF84-D4B62A4352C7-htm.html) for car-models, to automate the tedious process of building visual shutlines for presentations
 - [A drawing app]() built in JavaFX as a student project
 
 ### Coding tutorials and certificates
   
 - [My 300h JavaScript-certificate](https://www.freecodecamp.org/certification/johannesrave/javascript-algorithms-and-data-structures) from [freecodecamp.org](freecodecamp.org)
-- [My hackerrank profile](https://www.hackerrank.com/johannes_rave)
 - [My exercism profile](https://exercism.io/profiles/johannesrave)
 - [My Java solutions](https://github.com/johannesrave/ExercismJavaTrack) for [exercism](https://exercism.io/)
 - [My C# solutions](https://github.com/johannesrave/ExercismCSharpTrack) for [exercism](https://exercism.io/)
+- [My hackerrank profile](https://www.hackerrank.com/johannes_rave)
 
 ### Game-design
 
@@ -39,7 +39,7 @@
 [Käpt'n Wildschwein](./captn_boar/)  
 I designed "Capt'n Boar" for my nieces and nephews and modelled him in Blender. They sometimes send me drawings of him with his famous barrel of spaghetti.
 
-![The Secret of Maike Island](./game_design/captn_boar/captn_boar_complete.png) 
+![Capt'n Boar](./game_design/captn_boar/captn_boar_complete.png) 
 
 
 
@@ -48,9 +48,9 @@ I designed "Capt'n Boar" for my nieces and nephews and modelled him in Blender. 
 
 - [Cars I have worked on]() as a 3D-modeller.  
   Customers included Audi, BMW and VW
-- [Design portfolio 2014](https://github.com/johannesrave/curriculum_vitae/blob/main/design_portfolio/2014_portfolio_johannesRave_low.pdf)  
+- [Design portfolio 2014](./design_portfolio/2014_portfolio_johannesRave_low.pdf)  
   My business-oriented product-design portfolio.
-- [Design portfolio 2009](https://github.com/johannesrave/curriculum_vitae/blob/main/design_portfolio/2009_portfolio_johannesRave_low.pdf)  
+- [Design portfolio 2009](./design_portfolio/2009_portfolio_johannesRave_low.pdf)  
   My more artistic product-design portfolio.
 
 ### Nightclub _wolf_
