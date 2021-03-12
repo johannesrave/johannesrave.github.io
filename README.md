@@ -14,7 +14,9 @@
   Using JavaScript and maths.
 - [Generative design for a front grille](https://github.com/johannesrave/curriculum_vitae/tree/main/parametric_grille) using [Grasshopper](https://www.grasshopper3d.com/) and C#, inspired by my own work in the car industry
 - [A shutline generator]() in [Dynamo for Alias](https://knowledge.autodesk.com/support/alias-products/learn-explore/caas/CloudHelp/cloudhelp/2019/ENU/Alias-Modeling/files/GUID-853BF189-CB9D-48C9-BF84-D4B62A4352C7-htm.html) for car-models, to automate the tedious process of building visual shutlines for presentations
-- [A drawing app]() built in JavaFX as a student project
+- [A drawing app](https://github.com/johannesrave/drawingApp)  built in JavaFX as a student project
+  
+  ![drawingApp demo](https://raw.githubusercontent.com/johannesrave/drawingApp/master/drawingApp_demo.gif)
 
 ### Coding tutorials and certificates
   
