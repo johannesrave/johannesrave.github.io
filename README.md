@@ -16,7 +16,7 @@
 - [A shutline generator]() in [Dynamo for Alias](https://knowledge.autodesk.com/support/alias-products/learn-explore/caas/CloudHelp/cloudhelp/2019/ENU/Alias-Modeling/files/GUID-853BF189-CB9D-48C9-BF84-D4B62A4352C7-htm.html) for car-models, to automate the tedious process of building visual shutlines for presentations
 - [A drawing app](https://github.com/johannesrave/drawingApp)  built in JavaFX as a student project
   
-  ![drawingApp demo](https://raw.githubusercontent.com/johannesrave/drawingApp/master/drawingApp_demo.gif)
+![drawingApp demo](https://raw.githubusercontent.com/johannesrave/drawingApp/master/drawingApp_demo.gif)
 
 ### Coding tutorials and certificates
   
@@ -31,12 +31,10 @@
 [The Secret of Maike Island](https://www.adventuregamestudio.co.uk/site/games/game/2517-the-secret-of-maike-island/), a classical point'n'click adventure game built in [Adventure Game Studio](https://www.adventuregamestudio.co.uk/) as a birthday present.
 
 ![The Secret of Maike Island](https://user-images.githubusercontent.com/31467653/110179054-b87cf580-7e07-11eb-9700-16acd22ade5b.gif)  
-</br>
 
 [Splicer2D](https://github.com/johannesrave/splicer2D), a mobile game designed with Unity and written in C#
 
 ![splicer2D](https://user-images.githubusercontent.com/31467653/110180080-6f2da580-7e09-11eb-9f53-6b7d64f11f0b.gif)  
-</br>
 
 [Käpt'n Wildschwein](./captn_boar/)  
 I designed "Capt'n Boar" for my nieces and nephews and modelled him in Blender. They sometimes send me drawings of him with his famous barrel of spaghetti.
@@ -44,11 +42,9 @@ I designed "Capt'n Boar" for my nieces and nephews and modelled him in Blender. 
 ![Capt'n Boar](./game_design/captn_boar/captn_boar_complete.png) 
 
 
-
-
 ### Product-design, visual design and Automotive Modelling
 
-- [Cars I have worked on]() as a 3D-modeller.  
+- [Cars I have worked on](./product_design/Automotive_Modelling.md) as a 3D-modeller.  
   Customers included Audi, BMW and VW
 - [Design portfolio 2014](./design_portfolio/2014_portfolio_johannesRave_low.pdf)  
   My business-oriented product-design portfolio.
