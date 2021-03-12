@@ -39,8 +39,7 @@
 [Käpt'n Wildschwein](./captn_boar/)  
 I designed "Capt'n Boar" for my nieces and nephews and modelled him in Blender. They sometimes send me drawings of him with his famous barrel of spaghetti.
 
-![Capt'n Boar](./game_design/captn_boar/captn_boar_complete.png) 
-
+![Capt'n Boar](./game_design/captn_boar/captn_boar_02.gif)
 
 ### Product-design, visual design and Automotive Modelling
 
