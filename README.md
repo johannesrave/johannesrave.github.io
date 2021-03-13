@@ -54,7 +54,7 @@ I designed "Capt'n Boar" for my nieces and nephews and modelled him in Blender. 
 
 ## Product-design and Automotive Modelling
 
-- [Cars I have worked on](./product_design/Automotive_Modelling.md) as a 3D-modeller.  
+- [Cars I have worked on](./product_design/README.md) as a 3D-modeller.  
   Customers included Audi, BMW and VW
 - [Design portfolio 2014](./product_design/2014_portfolio_johannesRave_low.pdf)  
   My business-oriented product-design portfolio.
