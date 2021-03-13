@@ -8,38 +8,41 @@
 
 ### Applications, scripting and automation
 
+- [A drawing app](https://github.com/johannesrave/drawingApp)  built in JavaFX as a student project
+  
+![drawingApp demo](https://raw.githubusercontent.com/johannesrave/drawingApp/master/drawingApp_demo.gif)
 - [Integrating a physics engine into AR-filters]()  
   Using TypeScript and cannon.js in [SparkAR](https://sparkar.facebook.com/ar-studio/).
+
 - [Implementing billboarding on a tracked plane]() into [SparkAR](https://sparkar.facebook.com/ar-studio/)-filters  
   Using JavaScript and maths.
 - [Generative design for a front grille](https://github.com/johannesrave/curriculum_vitae/tree/main/parametric_grille) using [Grasshopper](https://www.grasshopper3d.com/) and C#, inspired by my own work in the car industry
 - [A shutline generator]() in [Dynamo for Alias](https://knowledge.autodesk.com/support/alias-products/learn-explore/caas/CloudHelp/cloudhelp/2019/ENU/Alias-Modeling/files/GUID-853BF189-CB9D-48C9-BF84-D4B62A4352C7-htm.html) for car-models, to automate the tedious process of building visual shutlines for presentations
-- [A drawing app](https://github.com/johannesrave/drawingApp)  built in JavaFX as a student project
-  
-![drawingApp demo](https://raw.githubusercontent.com/johannesrave/drawingApp/master/drawingApp_demo.gif)
+
+### Game-design
+
+[Splicer2D](https://github.com/johannesrave/splicer2D), a mobile game designed with Unity and written in C#
+
+![splicer2D](https://user-images.githubusercontent.com/31467653/110180080-6f2da580-7e09-11eb-9f53-6b7d64f11f0b.gif)  
+
+[The Secret of Maike Island](https://www.adventuregamestudio.co.uk/site/games/game/2517-the-secret-of-maike-island/), a classical point'n'click adventure game built in [Adventure Game Studio](https://www.adventuregamestudio.co.uk/) as a birthday present.
+
+![The Secret of Maike Island](https://user-images.githubusercontent.com/31467653/110179054-b87cf580-7e07-11eb-9700-16acd22ade5b.gif)  
+
+[Käpt'n Wildschwein](./captn_boar/)  
+I designed "Capt'n Boar" for my nieces and nephews and modelled him in Blender. They sometimes send me drawings of him with his famous barrel of spaghetti.
+
+![Capt'n Boar](./game_design/captn_boar/captn_boar_02.gif)
 
 ### Coding tutorials and certificates
+
+I have been learning and honing my skills on several online platforms, such as hackerrank, exercism or freecodecamp. Have a look at my solutions to coding challenges here:
   
 - [My 300h JavaScript-certificate](https://www.freecodecamp.org/certification/johannesrave/javascript-algorithms-and-data-structures) from [freecodecamp.org](freecodecamp.org)
 - [My exercism profile](https://exercism.io/profiles/johannesrave)
 - [My Java solutions](https://github.com/johannesrave/ExercismJavaTrack) for [exercism](https://exercism.io/)
 - [My C# solutions](https://github.com/johannesrave/ExercismCSharpTrack) for [exercism](https://exercism.io/)
 - [My hackerrank profile](https://www.hackerrank.com/johannes_rave)
-
-### Game-design
-
-[The Secret of Maike Island](https://www.adventuregamestudio.co.uk/site/games/game/2517-the-secret-of-maike-island/), a classical point'n'click adventure game built in [Adventure Game Studio](https://www.adventuregamestudio.co.uk/) as a birthday present.
-
-![The Secret of Maike Island](https://user-images.githubusercontent.com/31467653/110179054-b87cf580-7e07-11eb-9700-16acd22ade5b.gif)  
-
-[Splicer2D](https://github.com/johannesrave/splicer2D), a mobile game designed with Unity and written in C#
-
-![splicer2D](https://user-images.githubusercontent.com/31467653/110180080-6f2da580-7e09-11eb-9f53-6b7d64f11f0b.gif)  
-
-[Käpt'n Wildschwein](./captn_boar/)  
-I designed "Capt'n Boar" for my nieces and nephews and modelled him in Blender. They sometimes send me drawings of him with his famous barrel of spaghetti.
-
-![Capt'n Boar](./game_design/captn_boar/captn_boar_02.gif)
 
 ### Product-design, visual design and Automotive Modelling
 
