@@ -39,7 +39,7 @@ Splicer2D is an action-packed mobile game with a novel game-mechanism I designed
 
 To better understand and contribute to work in the IT industry, I recently aquired my PSM I certificate:
 
-- [My Professional Scrum Master I](https://www.scrum.org/certificates/643511)
+[![My Professional Scrum Master I](./assets/psmi.png)](https://www.scrum.org/certificates/643511)
 
 Besides my studies in Computer Science and Media, I have been learning and honing my skills on hackerrank, exercism and freecodecamp.
 
