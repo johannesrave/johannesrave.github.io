@@ -8,8 +8,13 @@ Currently looking for a challenge as a __working student or junior dev__ in soft
 
 ## Formal documents and contact information
 
+<<<<<<< HEAD
 - Curriculum Vitae _[en](./documents/CV_johannesRave_EN.pdf)_ \| _[de](./documents/CV_johannesRave_DE.pdf)_
 - Academic achievements _[en](./documents/210324_johannesRave_AcademicAchievement_EN.pdf)_ \| _[de](./documents/210324_johannesRave_Notenspiegel_DE.pdf)_
+=======
+- Curriculum Vitae _[en](documents\CV_johannesRave_DE.pdf)_ \| _[de](documents\CV_johannesRave_EN.pdf)_
+- Academic achievements _[en](documents\210324_johannesRave_AcademicAchievement_EN.pdf)_ \| _[de](documents\210324_johannesRave_Notenspiegel_DE.pdf)_
+>>>>>>> 692df81a3f026c5e9f204a35ea6a980b984e1135
 - [Email me](mailto:johannes.rave@gmail.com)
 
 ## Portfolio projects
@@ -61,9 +66,14 @@ It deals with socio-economic pressures of the housing market in metropolitan clu
 
 ![The Secret of Maike Island](https://user-images.githubusercontent.com/31467653/110179054-b87cf580-7e07-11eb-9700-16acd22ade5b.gif)  
 
+<<<<<<< HEAD
 ### [Käpt'n Wildschwein](./captn_boar/)
 
 I designed "Capt'n Boar" as a hero character for my nieces and nephews and modelled him in Blender. They sometimes send me drawings of him with his famous barrel of spaghetti.
+=======
+### [Käpt'n Wildschwein](./captn_boar/)  
+I designed "Capt'n Boar" for my nieces and nephews and modelled him in Blender. They sometimes send me drawings of him with his famous barrel of spaghetti.
+>>>>>>> 692df81a3f026c5e9f204a35ea6a980b984e1135
 
 ![Capt'n Boar](./game_design/captn_boar/captn_boar_02.gif)
 
