@@ -61,9 +61,20 @@ It deals with socio-economic pressures of the housing market in metropolitan clu
 
 ![The Secret of Maike Island](https://user-images.githubusercontent.com/31467653/110179054-b87cf580-7e07-11eb-9700-16acd22ade5b.gif)  
 
+<<<<<<< HEAD
 ### [Käpt'n Wildschwein](./captn_boar/)
 
 I designed "Capt'n Boar" as a hero character for my nieces and nephews and modelled him in Blender. They sometimes send me drawings of him with his famous barrel of spaghetti.
+=======
+<<<<<<< HEAD
+### [Käpt'n Wildschwein](./captn_boar/)
+
+I designed "Capt'n Boar" as a hero character for my nieces and nephews and modelled him in Blender. They sometimes send me drawings of him with his famous barrel of spaghetti.
+=======
+### [Käpt'n Wildschwein](./captn_boar/)  
+I designed "Capt'n Boar" for my nieces and nephews and modelled him in Blender. They sometimes send me drawings of him with his famous barrel of spaghetti.
+>>>>>>> 692df81a3f026c5e9f204a35ea6a980b984e1135
+>>>>>>> 62b1fafdb36d5ea8d3fd7d4476b549182fffc9de
 
 ![Capt'n Boar](./game_design/captn_boar/captn_boar_02.gif)
 
