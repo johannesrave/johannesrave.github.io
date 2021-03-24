@@ -1,16 +1,22 @@
 # CV and Resume of Johannes Rave
 
+Industrial designer, car modeller and former nightclub owner, now computer science student.
+
+I am passionate coder and professional designer with logical thinking, great willingness to learn, good communication skills and diverse work experience.
+
+Currently looking for a challenge as a __working student or junior dev__ in software development in Berlin.
+
 ## Formal documents and contact information
 
-- Curriculum Vitae _[en]()_ \| _[de]()_
-- Academic achievements _[en]()_ \| _[de]()_
+- Curriculum Vitae _[en](documents\CV_johannesRave_DE.pdf)_ \| _[de](documents\CV_johannesRave_EN.pdf)_
+- Academic achievements _[en](documents\210324_johannesRave_AcademicAchievement_EN.pdf)_ \| _[de](documents\210324_johannesRave_Notenspiegel_DE.pdf)_
 - [Email me](mailto:johannes.rave@gmail.com)
 
 ## Portfolio projects
 
 ### [drawingApp](https://github.com/johannesrave/drawingApp)
 
-I built this desktop application in JavaFX as a student project. It has a dark mode, implemented with CSS.
+I built this desktop application in JavaFX as a student project. It has a DARK MODE, implemented with CSS.
   
 ![drawingApp demo](https://raw.githubusercontent.com/johannesrave/drawingApp/master/drawingApp_demo.gif)
 
@@ -31,10 +37,14 @@ Splicer2D is an action-packed mobile game with a novel game-mechanism I designed
 
 ## Coding challenges and certificates
 
+To better understand and contribute to work in the IT industry, I recently aquired my PSM I certificate:
+
+- [My Professional Scrum Master I](https://www.scrum.org/certificates/643511)
+
 Besides my studies in Computer Science and Media, I have been learning and honing my skills on hackerrank, exercism and freecodecamp.
 
 Have a look at my solutions to coding challenges here:
-  
+
 - [My 300h JavaScript-certificate](https://www.freecodecamp.org/certification/johannesrave/javascript-algorithms-and-data-structures) from [freecodecamp.org](freecodecamp.org)
 - [My exercism profile](https://exercism.io/profiles/johannesrave)
 - [My Java solutions](https://github.com/johannesrave/ExercismJavaTrack) for [exercism](https://exercism.io/)
@@ -43,11 +53,15 @@ Have a look at my solutions to coding challenges here:
 
 ## Game-design and visual design
 
-[The Secret of Maike Island](https://www.adventuregamestudio.co.uk/site/games/game/2517-the-secret-of-maike-island/), a classical point'n'click adventure game built in [Adventure Game Studio](https://www.adventuregamestudio.co.uk/) as a birthday present.
+### [The Secret of Maike Island](https://www.adventuregamestudio.co.uk/site/games/game/2517-the-secret-of-maike-island/)
+
+This is a classical point'n'click adventure game built in [Adventure Game Studio](https://www.adventuregamestudio.co.uk/) as a birthday present.
+
+It deals with socio-economic pressures of the housing market in metropolitan clusters and destroying stuff with a bottle of prosecco.
 
 ![The Secret of Maike Island](https://user-images.githubusercontent.com/31467653/110179054-b87cf580-7e07-11eb-9700-16acd22ade5b.gif)  
 
-[Käpt'n Wildschwein](./captn_boar/)  
+### [Käpt'n Wildschwein](./captn_boar/)  
 I designed "Capt'n Boar" for my nieces and nephews and modelled him in Blender. They sometimes send me drawings of him with his famous barrel of spaghetti.
 
 ![Capt'n Boar](./game_design/captn_boar/captn_boar_02.gif)
