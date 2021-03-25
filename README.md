@@ -1,6 +1,6 @@
 # CV and Resume of Johannes Rave
 
-Industrial designer, car modeller and former nightclub owner, now computer science student.
+Industrial designer, car modeller and former nightclub owner, now __Computer Science student__.
 
 I am passionate coder and professional designer with logical thinking, great willingness to learn, good communication skills and diverse work experience.
 
@@ -28,12 +28,15 @@ Splicer2D is an action-packed mobile game with a novel game-mechanism I designed
 
 ## Scripting and automation
 
-- [Integrating a physics engine into AR-filters]()  
-  Using TypeScript and cannon.js in [SparkAR](https://sparkar.facebook.com/ar-studio/).
-- [Implementing billboarding on a tracked plane]() into [SparkAR](https://sparkar.facebook.com/ar-studio/)-filters  
-  Using JavaScript and maths.
-- [Generative design for a front grille](https://github.com/johannesrave/curriculum_vitae/tree/main/parametric_grille) using [Grasshopper](https://www.grasshopper3d.com/) and C#, inspired by my own work in the car industry
-- [A shutline generator]() in [Dynamo for Alias](https://knowledge.autodesk.com/support/alias-products/learn-explore/caas/CloudHelp/cloudhelp/2019/ENU/Alias-Modeling/files/GUID-853BF189-CB9D-48C9-BF84-D4B62A4352C7-htm.html) for car-models, to automate the tedious process of building visual shutlines for presentations
+### [SparkAR](https://sparkar.facebook.com/ar-studio/)
+
+This is a software package to create AR-filters for Instagram. Similarly to C# and Unity, it is possible to integrate TypeScript coding into the filters using the SparkAR-API. I work with this regularily to expand the possibilities of the studio-software, integrate game logic or debug existing problems with the young package. For example I did this:
+
+- Integrated the physics engine cannon.js into projects, enabling forces, collisions and constraints for 3D-objects. (I am writing a little wrapper called "sparrow" to interface cannon with SparkAR.)
+
+- Implemented billboarding on a tracked plane - an object will always face the user, even when the pane loses tracking and then "reappears".
+  
+  While the function itself is not very complex, it took some time to line up the quaternions correctly to make it happen. The documentation on the orientations of worldSpace, cameraSpace and planeTracking are patchy at best, but I got it to work eventually and published my solution to a relevant community. Before, the SparkAR-community had to abuse the particle-system to achieve this effect.
 
 ## Coding challenges and certificates
 
@@ -50,6 +53,20 @@ Have a look at my solutions to coding challenges here:
 - [My Java solutions](https://github.com/johannesrave/ExercismJavaTrack) for [exercism](https://exercism.io/)
 - [My C# solutions](https://github.com/johannesrave/ExercismCSharpTrack) for [exercism](https://exercism.io/)
 - [My hackerrank profile](https://www.hackerrank.com/johannes_rave)
+
+### Generative Design
+
+There are several node-based geometry packages in the industrial-design-space, but the most important one is Grasshopper, which ships with Rhino3D. Grasshopper can be used to generate repetitive geometry, recursive patterns and all kinds of interesting models and shapes. This can be achieved using nodes (__visual programming__), __Python__, and __C#__. I have worked with all of them, depending on the task at hand.
+
+There is a bit of a learning curve, and professionals who master generating production-ready geometry are sought after, especially since the model has to incorporate minute design changes that only come up during the process. I built my models in a flexible way by separating concerns, to be able to include those design changes without having to begin from scratch on each iteration.
+
+Unfortunately, I can't share images of these projects, as they were done for customers confidentially. I will still list them here to give an idea of the kind of task completed.
+
+- Generative front grille with a custom curve-fitting function written in C#, inspired by my own work in the car industry. This might make it into a car for an Asian market.
+
+- A shutline generator in for car-models, to automate the tedious process of building visual shutlines for presentations
+
+- Recursive graphical patterns inspired by Muslim architecture
 
 ## Game-design and visual design
 
