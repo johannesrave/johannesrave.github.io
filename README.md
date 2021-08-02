@@ -1,10 +1,10 @@
 # CV and Resume of Johannes Rave
 
-Industrial designer, car modeller and former nightclub owner, now __Computer Science student__.
+Industrial designer, car modeller and former nightclub owner, now __Computer Science student__ and IT consultant.
 
-I am passionate coder and professional designer with logical thinking, great willingness to learn, good communication skills and diverse work experience.
+A passionate coder and professional designer with logical thinking, I have a great willingness to learn, good communication skills and diverse work experience.
 
-Currently looking for a challenge as a __working student or junior dev__ in software development in Berlin.
+Recently I began working as an IT consultant at [INNOQ](https://www.innoq.com/en/).
 
 ## Formal documents and contact information
 
@@ -16,13 +16,13 @@ Currently looking for a challenge as a __working student or junior dev__ in soft
 
 ### [drawingApp](https://github.com/johannesrave/drawingApp)
 
-I built this desktop application in JavaFX as a student project. It has a DARK MODE, implemented with CSS.
+This desktop application was built in JavaFX as a student project. It has a DARK MODE, implemented with CSS.
   
 ![drawingApp demo](https://raw.githubusercontent.com/johannesrave/drawingApp/master/drawingApp_demo.gif)
 
 ### [splicer2D](https://github.com/johannesrave/splicer2D)
 
-Splicer2D is an action-packed mobile game with a novel game-mechanism I designed with Unity and wrote in C#.
+Splicer2D is an action-packed mobile game with a novel game-mechanism designed with Unity and written in C#.
 
 ![splicer2D](https://user-images.githubusercontent.com/31467653/110180080-6f2da580-7e09-11eb-9f53-6b7d64f11f0b.gif)  
 
