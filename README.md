@@ -24,6 +24,17 @@ This desktop application was built in JavaFX as a student project. It has a DARK
 
 Splicer2D is an action-packed mobile game with a novel game-mechanism designed with Unity and written in C#.
 
+![splicer2D](https://user-images.githubusercontent.com/31467653/110180080-6f2da580-7e09-11eb-9f53-6b7d64f11f0b.gif)
+
+### [verstehbank](https://informatik.th-brandenburg.de/~rave/verstehbank/build/login/)
+
+__verstehbank__ is my entry for the web-technology course at my university. It showcases a very simple and understandable responsive web-app for online banking, targetted at people with simple requirements annoyed or confused by the distractions of more elaborate and hard to understand offerings.
+A test-account is "beateweber", password "1955". Your transaction history will be saved to localStorage, so your balance should stay consistent over several sessions within the same browser.
+
+### [CSS Zen Garden](https://informatik.th-brandenburg.de/~rave/esa01_csszengarden/)
+
+The [CSS Zen Garden](http://daveshea.com/projects/zen/) is a collaborative website originally dating back to 2003. Web-designers showcased the power of CSS and their own skills by styling a defined page of HTML-markup in hundreds of variants. This is my version of the page, built as part of a CSS course at my university.
+
 ![splicer2D](https://user-images.githubusercontent.com/31467653/110180080-6f2da580-7e09-11eb-9f53-6b7d64f11f0b.gif)  
 
 ## Scripting and automation
